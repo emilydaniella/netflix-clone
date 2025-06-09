@@ -1,30 +1,49 @@
-# Página de Login – Clone Netflix
+# Projeto Clone Netflix – HTML & CSS 🎬
 
-Projeto desenvolvido como parte do aprendizado em HTML e CSS, com o objetivo de praticar a criação de páginas web estáticas.
+Este repositório reúne as páginas desenvolvidas como parte do meu estudo prático em HTML5 e CSS3, com foco em recriar a interface da Netflix. O projeto será construído em etapas, começando pela **tela de login** e evoluindo para páginas mais completas como **catálogo de filmes**, **player** e **interface de navegação**.
 
-## Descrição
+## 📄 Descrição Geral
 
-Esta página reproduz a tela de login da Netflix, com campos de entrada, botões estilizados e layout moderno. Foi construída com foco em estruturação semântica, responsividade e organização de arquivos.
+O objetivo deste projeto é aplicar os conceitos fundamentais do front-end, explorando a estruturação semântica com HTML, estilização com CSS e técnicas de responsividade com Flexbox. Cada etapa será versionada neste repositório e documentada com clareza para acompanhar a evolução do desenvolvimento.
 
-## Funcionalidades
+## ✅ Funcionalidades por etapa
 
-- Estruturação com HTML5  
-- Estilização com CSS3  
-- Layout responsivo utilizando Flexbox  
-- Organização em pastas (`assets/css` e `assets/img`)  
-- Efeitos de hover e sobreposição com transparência
+### 🔒 Tela de Login (concluída)
 
-## Tecnologias Utilizadas
+- Campos para email e senha  
+- Botão de login com hover  
+- Layout centralizado com imagem de fundo  
+- Links auxiliares (ajuda, cadastro)  
+- Design responsivo com Flexbox  
+
+### 🧭 Próximas etapas (em breve)
+
+- Página principal com carrossel de filmes  
+- Menu de navegação lateral  
+- Tela de exibição de filme/série  
+- Rodapé e responsividade avançada  
+
+## 🛠 Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
-- Flexbox
+- Flexbox  
+- Organização em pastas (`assets/`, `pages/`, etc.)
 
-## Aprendizados
+## 🚀 Aprendizados
 
-Este projeto ajudou a reforçar o uso de tags semânticas, separação de estilos com CSS externo, e aplicação de responsividade com Flexbox.
+Este projeto está sendo essencial para:
 
-## Contato
+- Consolidar boas práticas em HTML e CSS  
+- Trabalhar com layout responsivo  
+- Aprender sobre estruturação modular de arquivos  
+- Simular a construção de uma interface profissional
 
-Desenvolvido por **Daniella Silva**  
+## 🙋‍♀️ Desenvolvedora
+
+Projeto criado por **Daniella Silva**  
 [LinkedIn](https://www.linkedin.com/in/daniella-silva-4a851b230/) | [GitHub](https://github.com.br/emilydaniella)
+
+---
+
+> Este projeto é apenas para fins educacionais. A marca Netflix pertence à Netflix Inc.
