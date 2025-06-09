@@ -27,4 +27,4 @@ Este projeto ajudou a reforçar o uso de tags semânticas, separação de estilo
 ## Contato
 
 Desenvolvido por **Daniella Silva**  
-[LinkedIn](https://www.linkedin.com/in/daniella-silva-4a851b230/) | [GitHub](https://github.com.br/emilydaniella)
+[LinkedIn](https://www.linkedin.com/in/daniella-silva-4a851b230/) | [GitHub](https://github.com/emilydaniella)
